@@ -67,10 +67,12 @@ Overrides:
 Add 3 Articles with Lorem ipsum text content, with images and provide Main navigation links for all 3.
 >Note: Sample images for testing Article conent type, you can find under projectx\web\themes\contrib\dexone\img
 *drupal.jpg*
+
 *passion.jpg*
+
 *ride.jpg*
 
-> Close comment option for Articles
+> Close Comment options for all 3 Articles.
 
 Go to Home page.
 
