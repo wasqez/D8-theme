@@ -1,8 +1,8 @@
 ##Installation
 
-`git clone git@github.com:wasqez/D8-theme.git project`
+`git clone git@github.com:wasqez/D8-theme.git projectx`
 
-cd/project
+cd/projectx
 
 `composer install`
 
@@ -15,7 +15,7 @@ cd web/themes/contrib/dexone/
 ## Usage
 
 Run Drupal from Acquia DevDesktop. 
-Need to select root folder: project/web
+Need to select root folder: projectx/web
 
 
 ## Theme settings
@@ -48,7 +48,7 @@ Overrides:
 ## Add Content
 
 Add 3 Articles with Lorem ipsum text content, with images and provide Main navigation links for all 3.
->Note: Sample images for testing Article conent type, you can find under project\web\themes\contrib\dexone\img
+>Note: Sample images for testing Article conent type, you can find under projectx\web\themes\contrib\dexone\img
 *drupal.jpg
 *passion.jpg
 *ride.jpg
