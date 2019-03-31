@@ -8,7 +8,7 @@ cd/projectx
 
 ## Install theme
 
-cd web/themes/contrib/dexone/
+cd web/themes/contrib/
 
 `git clone git@github.com:wasqez/dexone.git`
 
