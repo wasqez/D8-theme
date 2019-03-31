@@ -6,7 +6,7 @@ cd/projectx
 
 `composer install`
 
-# Install theme
+## Install theme
 
 cd web/themes/contrib/dexone/
 
