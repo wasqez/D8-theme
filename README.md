@@ -17,6 +17,9 @@ cd web/themes/contrib/
 Run Drupal from Acquia DevDesktop. 
 Need to select root folder: projectx/web
 >Note: select php 7.x
+Go to URL of your Local Site at the Acquia Dev Desktop panel and start your Drupal 8 installation at standard profile.
+Install Drupal
+Visit your site.
 
 ## Theme settings
 Go to Drupal Administration Appearance and install and set default Dexone theme.
