@@ -38,9 +38,9 @@ Overrides:
 
   Set Headline region like this:
   
-  -Main navigation
-  
   -Site branding
+  
+  -Main navigation
   
   -Page title
   
