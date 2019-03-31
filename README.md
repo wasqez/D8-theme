@@ -16,7 +16,7 @@ cd web/themes/contrib/
 
 Run Drupal from Acquia DevDesktop. 
 Need to select root folder: projectx/web
-
+>Note: select php 7.x
 
 ## Theme settings
 Go to Drupal Administration Appearance and install and set default Dexone theme.
