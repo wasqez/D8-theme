@@ -28,7 +28,7 @@ Overrides:
 
 * Go to admin/structure/types/manage/article/display
 
-  Disable comments and tags fields for Deault and Teaser display, and set image format to Original image
+  Disable comments and tags fields for Deault and Teaser display, and set image format style to Original image
   
 * Go to admin/structure/types/manage/article
 
