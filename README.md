@@ -1,7 +1,9 @@
 ##Installation
 
 `git clone git@github.com:wasqez/D8-theme.git project`
+
 cd/project
+
 `composer install`
 
 #Install theme
