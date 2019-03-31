@@ -1,4 +1,4 @@
-##Installation
+## Installation
 
 `git clone git@github.com:wasqez/D8-theme.git projectx`
 
@@ -6,7 +6,7 @@ cd/projectx
 
 `composer install`
 
-#Install theme
+# Install theme
 
 cd web/themes/contrib/dexone/
 
@@ -64,9 +64,7 @@ Overrides:
 Add 3 Articles with Lorem ipsum text content, with images and provide Main navigation links for all 3.
 >Note: Sample images for testing Article conent type, you can find under projectx\web\themes\contrib\dexone\img
 *drupal.jpg
-
 *passion.jpg
-
 *ride.jpg
 
 
