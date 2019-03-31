@@ -51,9 +51,9 @@ Overrides:
   
   -Primary admin actions
   
-  -Status messages
-  
   -Main page content
+  
+  -Status messages
   
   
  Sidebar and Footer has no region blocks.
