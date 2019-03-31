@@ -7,6 +7,7 @@ cd/project
 #Install theme
 
 cd web/themes/contrib/dexone/
+
 `git clone git@github.com:wasqez/dexone.git`
 
 ## Usage
@@ -14,8 +15,6 @@ cd web/themes/contrib/dexone/
 Run Drupal from Acquia DevDesktop. 
 Need to select root folder: project/web
 
-```
-```
 
 ## Theme settings
 Go to Drupal Administration Appearance and install and set default Dexone theme.
