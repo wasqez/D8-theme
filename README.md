@@ -36,9 +36,13 @@ Overrides:
   Set Headline region like this:
   
   -Main navigation
+  
   -Site branding
+  
   -Page title
+  
   -Breadcrumbs
+  
   
   Set Content region like this:
   
@@ -60,8 +64,11 @@ Overrides:
 Add 3 Articles with Lorem ipsum text content, with images and provide Main navigation links for all 3.
 >Note: Sample images for testing Article conent type, you can find under projectx\web\themes\contrib\dexone\img
 *drupal.jpg
+
 *passion.jpg
+
 *ride.jpg
+
 
 Go to Home page.
 
